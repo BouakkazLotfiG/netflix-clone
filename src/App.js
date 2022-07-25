@@ -1,9 +1,8 @@
 
-
 function App() {
   return (
-    <div className="App">
-      <h1>ni</h1>
+    <div >
+      <h1 className="text-3xl font-bold underline">ni</h1>
     </div>
   );
 }
